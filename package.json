@@ -1,0 +1,23 @@
+{
+  "name": "lepto-sqip",
+  "version": "1.0.0-alpha.0",
+  "description": "Lepto plugin for creating sqip image placeholders",
+  "main": "lepto-sqip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natemoo-re/lepto-sqip.git"
+  },
+  "keywords": [
+    "lepto",
+    "lepto-plugin",
+    "lqip",
+    "sqip",
+    "placeholder"
+  ],
+  "author": "Nate Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natemoo-re/lepto-sqip/issues"
+  },
+  "homepage": "https://github.com/natemoo-re/lepto-sqip#readme"
+}
